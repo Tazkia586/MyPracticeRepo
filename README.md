@@ -1,2 +1,2 @@
 # MyPracticeRepo 
-I have changed the repository from Chogath PC
+I have changed the repository from Aladin PC
